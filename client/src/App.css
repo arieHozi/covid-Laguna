@@ -1,0 +1,21 @@
+.App {
+  display: flexbox;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  padding: 1rem;
+}
+.wrapper{
+  border: solid 2px red;
+  border-radius: 20px;
+  padding: 20px;
+}
+.user-type{
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
